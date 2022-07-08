@@ -39,7 +39,7 @@
 }
 
 .M5{
-    height: 900PX;
+    height: 1000PX;
     
     background: url(../img/bg-destinos0.png);
 }
@@ -54,7 +54,7 @@
     color: aliceblue;
 }
 .M7{
-    padding-top: 2PX;
+    padding-top: 20PX;
     text-align: center;
     color: aliceblue;
 }
