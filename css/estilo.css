@@ -1,0 +1,79 @@
+
+.M1{
+    height: 800PX;
+    background-color: aqua;
+    background: url(../img/bg-header.png);
+}
+
+.M2{
+    text-align: center;
+}
+
+.M2 img{
+   padding-top: 250px;
+}
+.M2 h1{
+    color: gold;
+ }
+ .M2 h4{
+    color: rgb(245, 243, 234);
+ }  
+ .M2 button{
+    color: rgb(85, 70, 6);
+    background-color: rgb(230, 214, 75);
+    border: snow;
+    border-radius: 10%;
+    padding: PX;
+ }  
+
+ .M3{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 15px;
+}
+.M4{
+    text-align: center;
+   padding-top: 50px;
+   padding-bottom:90PX ;
+    font-size: 15px;
+}
+
+.M5{
+    height: 1300PX;
+    
+    background: url(../img/bg-destinos.png);
+}
+
+.M5 h2{
+    color: gold;
+    text-align: center;
+    padding-top: 5px;
+}
+.M6{
+    text-align: center;
+    color: aliceblue;
+}
+.M7{
+    padding-top: 2PX;
+    text-align: center;
+    color: aliceblue;
+}
+
+.M8{
+    background-color: gold;
+    text-align: center;
+    padding-top: 20px;
+    height: 450PX;
+}
+
+footer{
+    text-align: center;
+    background: #080000;
+    color: aliceblue;
+    padding: 30PX;
+}
+.M1 nav {
+    position: fixed;
+    z-index: 900;
+    width: 100%;
+}
